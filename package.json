@@ -1,12 +1,12 @@
 {
-    "name": "ReactBoilerplate",
+    "name": "alacarte",
     "version": "1.0.0",
-    "description": "React web application boilerplate",
-    "main": "./src/index.js",
+    "description": "React web application used to generate number of dishes a recipe can make.",
+    "main": "index.js",
     "scripts": {
         "start": "webpack-dev-server"
     },
-    "repository": "https://github.com/andrescorrea/React-Redux-Boilerplate.git",
+    "repository": "https://github.com/andrescorrea/alacarte.git",
     "keywords": [
         "react",
         "webpack",
